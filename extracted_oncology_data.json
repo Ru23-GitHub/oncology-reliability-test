@@ -1,0 +1,158 @@
+[
+  {
+    "filename": "DREAMseq_Results.pdf",
+    "title": "EA6134 (DREAMseq ) Clinical Trial Results Summary Testing the Therapy Sequence for Advanced BRAF Mutation Melanoma",
+    "publication_year": 2023,
+    "population": {
+      "cancer_type": "Advanced BRAF Mutation Melanoma",
+      "disease_stage": "Stage III or IV unresectable melanoma with BRAF gene mutation",
+      "patient_age_range": null,
+      "sex_distribution": null,
+      "comorbidities_summary": null,
+      "prior_treatments_summary": null
+    },
+    "design": {
+      "study_type": "RCT",
+      "sample_size": 300,
+      "intervention": "Immunotherapy drugs (nivolumab and ipilimumab) followed by targeted therapy drugs (dabrafenib and trametinib)",
+      "comparator": "Targeted therapy drugs (dabrafenib and trametinib) followed by immunotherapy drugs (nivolumab and ipilimumab)",
+      "primary_endpoint": "Two-year survival",
+      "secondary_endpoints": [],
+      "followup_duration": "2 years"
+    },
+    "results": {
+      "primary_result_text": "Patients did better with a treatment sequence that began with immunotherapy drugs and was followed, if needed, by targeted therapy drugs. Researchers found a 20% increase in two-year survival in the group that received immunotherapy first, compared with the group that received targeted therapy first.",
+      "primary_result_numeric": "20% increase in two-year survival with immunotherapy-first sequence",
+      "safety_profile_summary": null,
+      "limitations_summary": null
+    },
+    "predicted_reliability": "High"
+  },
+  {
+    "filename": "Personalized_Oncology_Meta_PLOS.pdf",
+    "title": "Personal approach for cancer treatment: A meta-analysis of Phase II clinical trials",
+    "publication_year": 2025,
+    "population": {
+      "cancer_type": "Various cancers",
+      "disease_stage": null,
+      "patient_age_range": "18-85 years",
+      "sex_distribution": null,
+      "comorbidities_summary": null,
+      "prior_treatments_summary": "Included both pre-treated and treatment-na\u00efve patients. Pre-treatment was associated with worse PFS outcomes."
+    },
+    "design": {
+      "study_type": "Meta-Analysis",
+      "sample_size": 6536,
+      "intervention": "Personalized genomics-based therapy",
+      "comparator": "Non-personalized treatment",
+      "primary_endpoint": "Response Rate (RR), Overall Survival (OS), and Progression-Free Survival (PFS)",
+      "secondary_endpoints": [
+        "PFS median",
+        "OS median"
+      ],
+      "followup_duration": "1-year rates for PFS and OS; medians also analyzed."
+    },
+    "results": {
+      "primary_result_text": "Personalized arms showed significantly higher Response Rate (RR) and 1-year Progression-Free Survival (PFS) (p = 0.009 and p = 0.011, respectively) compared to non-personalized arms. Medians of PFS and Overall Survival (OS) were also higher in personalized arms (p = 0.018 and p = 0.032, respectively). Proportional meta-analysis and meta-regression confirmed significant positive association between personalized treatment and RR (p = 0.037), 1-year PFS (p = 0.043), and 1-year OS rates (p = 0.022).",
+      "primary_result_numeric": "RR (M-W test) p=0.009; 1-year PFS (M-W test) p=0.011; PFS median (M-W test) p=0.018; OS median (M-W test) p=0.032; 1-year OS (meta-regression) p=0.022.",
+      "safety_profile_summary": null,
+      "limitations_summary": "High between-study heterogeneity was observed for RR, PFS, and OS, attributed to varying absolute outcome metrics across different cancers, disease stages, and treatments. Meta-analysis of medians without additional data was considered less accurate and powerful compared to proportional meta-analysis."
+    },
+    "predicted_reliability": "Medium"
+  },
+  {
+    "filename": "Precision_Medicine_Feasibility_PLOS.pdf",
+    "title": "Feasibility trial of Darwin OncoTreat and OncoTarget precision medicine testing to improve outcomes for patients with limited metastatic disease that failed first-line systemic therapy.",
+    "publication_year": 2025,
+    "population": {
+      "cancer_type": "Solid tumor oligometastases across various histologies; ovarian cancer, cholangiocarcinoma, and stomach cancer are considered suboptimal candidates.",
+      "disease_stage": "Oligometastatic disease (up to 10 discrete tumors) that is induced, recurrent, or persistent following prior first-line systemic therapy, or oligoprogression.",
+      "patient_age_range": "\u226518 years (adults)",
+      "sex_distribution": null,
+      "comorbidities_summary": "Ineligible if estimated median survival < 6 months (based on NEAT model), pregnant/breastfeeding, severe uncontrolled cardiac, pulmonary, infectious, or organic brain disease, or inadequate bone marrow, kidney, or liver function.",
+      "prior_treatments_summary": "Failed first-line or later systemic therapy; candidates for comprehensive involved site radiotherapy."
+    },
+    "design": {
+      "study_type": "Other",
+      "sample_size": 20,
+      "intervention": "Integration of Darwin OncoTarget and OncoTreat precision medicine RNA transcriptome-based testing to inform systemic therapy decisions (standard of care or alternative FDA-approved treatments) in conjunction with comprehensive involved site radiotherapy.",
+      "comparator": "Standard of care systemic therapy or historical control patients treated without OncoTarget and OncoTreat testing for progression-free survival comparison.",
+      "primary_endpoint": "Feasibility of OncoTarget and OncoTreat testing (defined by successful test completion, willingness of oncologists to use off-label drugs, ability to procure recommended agents, and identification of barriers); proportion of cases where precision medicine testing changes systemic treatment choice.",
+      "secondary_endpoints": [
+        "Assessment of progression-free survival (PFS) and overall survival (OS) compared to historical controls.",
+        "Comparison of PFS of radiation combined with precision oncology recommended treatment to the PFS of the previous line of treatment."
+      ],
+      "followup_duration": "Until death, with typical follow-up every 3 months for the first year and every 6 months thereafter."
+    },
+    "results": {
+      "primary_result_text": "This is a study protocol for a feasibility trial; therefore, no actual results are available in this text.",
+      "primary_result_numeric": null,
+      "safety_profile_summary": "This is a study protocol; safety will be assessed using CTCAE grade 1-5, with serious adverse events (grade 4 or 5) reported to the IRB. No actual safety results are available.",
+      "limitations_summary": "Practical and operational issues include the ability to perform Darwin testing on all cancer types, obtaining off-label use of recommended drugs, and challenges in securing insurance coverage for costly agents. Ovarian, cholangiocarcinoma, and stomach cancers are considered suboptimal candidates due to potential inaccuracies from bulk tumor testing."
+    },
+    "predicted_reliability": "Low"
+  },
+  {
+    "filename": "PALOMA-2_FDA.pdf",
+    "title": "STATISTICAL REVIEW AND EVALUATION CLINICAL STUDIES",
+    "publication_year": 2015,
+    "population": {
+      "cancer_type": "ER+, HER2 -first-line metastatic breast cancer",
+      "disease_stage": "metastatic",
+      "patient_age_range": null,
+      "sex_distribution": null,
+      "comorbidities_summary": null,
+      "prior_treatments_summary": "no prior systemic therapy for advanced disease"
+    },
+    "design": {
+      "study_type": "RCT",
+      "sample_size": 165,
+      "intervention": "Palbociclib in combination with letrozole",
+      "comparator": "Letrozole alone",
+      "primary_endpoint": "Investigator-assessed progression free survival (PFS)",
+      "secondary_endpoints": [
+        "Overall Survival (OS)",
+        "Objective Response Rate (ORR)"
+      ],
+      "followup_duration": "Until disease progression or toxicity (treatment period); OS until study end (follow-up period)"
+    },
+    "results": {
+      "primary_result_text": "The primary analysis in PALOMA-1 was investigator assessed progression free survival (PFS). The results demonstrated a hazard ratio of 0.488 with a 20.2 month median PFS time in the Palbociclib + letrozole arm and 10.2 month median PFS time in the letrozole arm. A blinded independent committee review (BICR) of PFS found a hazard ratio of 0.621 with a 25.7 month median PFS time in the Palbociclib + letrozole arm and 14.8 month median PFS time in the letrozole arm.",
+      "primary_result_numeric": "Investigator-assessed PFS: HR=0.488, median PFS (Palbociclib + letrozole) = 20.2 months, median PFS (letrozole) = 10.2 months. BICR-assessed PFS: HR=0.621, median PFS (Palbociclib + letrozole) = 25.7 months, median PFS (letrozole) = 14.8 months.",
+      "safety_profile_summary": null,
+      "limitations_summary": "PALOMA-1 was not designed to be a registrational trial and had several flaws of execution, including data-driven amendments to the statistical analysis plan (splitting and recombining study parts). There was evidence of investigator bias towards the treatment arm, and the magnitude of benefit is unclear and uncertain due to these issues. Overall survival data are immature."
+    },
+    "predicted_reliability": "High"
+  },
+  {
+    "filename": "PATINA_Pfizer.pdf",
+    "title": "Pfizer\u2019s IBRANCE\u00ae in Combination with Standard-of-Care Therapies Extends Median Progression-Free Survival by Over 15 Months in Phase 3 PATINA Study in Patients with HR+, HER2+ Metastatic Breast Cancer",
+    "publication_year": 2024,
+    "population": {
+      "cancer_type": "Hormone receptor-positive (HR+), human epidermal growth factor receptor 2-positive (HER2+) metastatic breast cancer (MBC)",
+      "disease_stage": "Metastatic breast cancer (first-line maintenance therapy following induction chemotherapy)",
+      "patient_age_range": null,
+      "sex_distribution": null,
+      "comorbidities_summary": null,
+      "prior_treatments_summary": "Previously treated with anti-HER2 therapy and induction chemotherapy"
+    },
+    "design": {
+      "study_type": "RCT",
+      "sample_size": 518,
+      "intervention": "IBRANCE\u00ae (palbociclib) in combination with anti-HER2 therapy (trastuzumab or trastuzumab plus pertuzumab) and endocrine therapy",
+      "comparator": "Anti-HER2 therapy (trastuzumab or trastuzumab plus pertuzumab) and endocrine therapy alone",
+      "primary_endpoint": "Progression-free survival (PFS) as assessed by the investigator",
+      "secondary_endpoints": [
+        "Overall survival"
+      ],
+      "followup_duration": null
+    },
+    "results": {
+      "primary_result_text": "Median PFS was 44.3 months (95% CI: 32.4-60.9) for patients treated with IBRANCE in combination with anti-HER2 therapy and endocrine therapy, and 29.1 months (95% CI: 23.3-38.6) for patients treated with anti-HER2 therapy and endocrine therapy alone [HR: 0.74 (95% CI, 0.58-0.94); unstratified 1-sided p= 0.0074]. This represents an extension in median PFS of over 15 months.",
+      "primary_result_numeric": "Median PFS: IBRANCE arm 44.3 months vs. Comparator arm 29.1 months (HR: 0.74; 95% CI, 0.58-0.94; p=0.0074).",
+      "safety_profile_summary": "The safety and tolerability of IBRANCE in the PATINA study was consistent with its known safety profile in HR+, HER2- MBC, and no new safety signals were identified. The most common adverse events observed with IBRANCE were hematologic toxicities, such as neutropenia and leukopenia. Non-hematologic adverse events included fatigue, stomatitis and diarrhea, which were generally mild to moderate in severity.",
+      "limitations_summary": "Overall survival, a secondary endpoint, was not yet mature at the time of the analysis."
+    },
+    "predicted_reliability": "High"
+  }
+]
